@@ -1,2 +1,3 @@
 # apnacollege-demo
-repo made at the timeof learning from apnacollege
+repo made at the time of learning from apnacollege.
+Author - Ayush Dayal
